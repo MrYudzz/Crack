@@ -89,8 +89,8 @@ def menu():
 		cetak(pnl('[yellow]'+notik[0],width=95,padding=(0,1),style=f"blue"))
 	except:pass
 	cetak(pnl("""[green]Author        : Tamsis
-facebook      : Tamsis Slebew
-Github        : Tamsis-Nop""",width=95,padding=(0,1),style=f"blue"))
+facebook      : Yudz Xyon
+Github        : MrYudzz""",width=95,padding=(0,1),style=f"blue"))
 	cetak(pnl("""[white][ 1 ] Crack File
 [ 2 ] Buat File Dump
 [ 3 ] Crack ID Publik
